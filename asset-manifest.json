@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/pixabay-api-with-react/static/js/main.6aa6c13a.js",
+    "index.html": "/pixabay-api-with-react/index.html",
+    "main.6aa6c13a.js.map": "/pixabay-api-with-react/static/js/main.6aa6c13a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6aa6c13a.js"
+  ]
+}
