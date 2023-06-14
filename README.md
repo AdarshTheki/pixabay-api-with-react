@@ -1,33 +1,25 @@
-# Creating multi-step forms in ReactJS
+# Creating PixaBay API with ReactJS
 
 ## Project Specifications
-- This is a class component that handles the state and rendering of a multi-step user form. 
+This is a React component that allows users to search for images using the Pixabay API and displays the results.
 
-- Entering user details and continuing to the next step.
+### Deployment Link : [PixaBay API with ReactJS](https://adarshtheki.github.io/pixabay-api-with-react/)
 
-- Personal details with input fields for occupation, city, and bio data, along with buttons to go back or continue.
+![image](public\assets\PixaBay_API.png "Project with PixaBay API" )
 
-- Displays a form for users to confirm their personal details and allows them to go back or proceed to the next step. 
-
-* The Success function returns a React component that displays a success message with some text.
-
-
-
-<img src='./public/assets/form-multi-step.png' alt="image" width='400'>
-<img src='./public/assets/form-success.png' alt="image" width='400'>
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AdarshTheki/pixabay-api-with-react.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd multi-step-form-with-react
+  cd pixabay-api-with-react
 ```
 
 Install dependencies
