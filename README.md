@@ -5,7 +5,7 @@ This is a React component that allows users to search for images using the Pixab
 
 ### Deployment Link : [PixaBay API with ReactJS](https://adarshtheki.github.io/pixabay-api-with-react/)
 
-![image](public\assets\PixaBay_API.png "Project with PixaBay API" )
+![image](public/assets/PixaBay_API.png)
 
 
 ## Run Locally
